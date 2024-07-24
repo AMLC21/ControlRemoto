@@ -1,0 +1,33 @@
+2021/03/17 07.34.29:	Se abrio Aplicacion.
+2021/03/17 07.44.11:	Se cerro la aplicacion. 
+2021/03/17 07.44.12:	Se abrio Aplicacion.
+2021/03/17 07.45.47:	Se cerro la aplicacion. 
+2021/03/17 07.45.58:	Se abrio Aplicacion.
+2021/03/17 07.46.11:	Se cerro la aplicacion. 
+2021/03/17 07.51.54:	Se abrio Aplicacion.
+2021/03/17 07.53.09:	Se cerro la aplicacion. 
+2021/03/17 07.53.10:	Se abrio Aplicacion.
+2021/03/17 07.53.14:	Se cerro la aplicacion. 
+2021/03/17 07.58.28:	Se abrio Aplicacion.
+2021/03/17 07.59.33:	Se cerro la aplicacion. 
+2021/03/17 08.05.51:	Se abrio Aplicacion.
+2021/03/17 08.12.01:	Se abrio Aplicacion.
+2021/03/17 08.12.03:	Se cerro la aplicacion. 
+2021/03/17 08.15.30:	Se abrio Aplicacion.
+2021/03/17 08.15.36:	Se abrio Aplicacion.
+2021/03/17 08.15.37:	Se cerro la aplicacion. 
+2021/03/17 08.15.48:	Se abrio Aplicacion.
+2021/03/17 08.15.53:	Se cerro la aplicacion. 
+2021/03/17 08.17.10:	Se abrio Aplicacion.
+2021/03/17 08.51.05:	Se cerro la aplicacion. 
+2021/03/17 11.14.56:	Se abrio Aplicacion.
+2021/03/17 11.14.58:	Se cerro la aplicacion. 
+2021/03/17 11.30.33:	Se abrio Aplicacion.
+2021/03/17 11.30.48:	Se abrio Aplicacion.
+2021/03/17 11.42.09:	Se abrio Aplicacion.
+2021/03/17 11.42.11:	Se cerro la aplicacion. 
+2021/03/17 11.44.27:	Se abrio Aplicacion.
+2021/03/17 11.51.03:	Se abrio Aplicacion.
+2021/03/17 11.51.04:	Se cerro la aplicacion. 
+2021/03/17 12.18.03:	Se abrio Aplicacion.
+2021/03/17 12.18.06:	Se cerro la aplicacion. 

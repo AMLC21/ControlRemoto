@@ -1,0 +1,2 @@
+2021/06/11 12.18.48:	Se abrio Aplicacion.
+2021/06/11 12.18.57:	Se cerro la aplicacion. 

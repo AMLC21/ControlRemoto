@@ -1,0 +1,113 @@
+2021/03/16 08.00.58:	Se abrio Aplicacion.
+2021/03/16 08.01.50:	Se abrio Aplicacion.
+2021/03/16 08.03.07:	Se abrio Aplicacion.
+2021/03/16 08.34.11:	Se abrio Aplicacion.
+2021/03/16 09.03.39:	Se abrio Aplicacion.
+2021/03/16 09.04.36:	Se abrio Aplicacion.
+2021/03/16 09.06.16:	Se abrio Aplicacion.
+2021/03/16 09.08.46:	Se abrio Aplicacion.
+2021/03/16 09.13.37:	Se abrio Aplicacion.
+2021/03/16 09.14.34:	Se abrio Aplicacion.
+2021/03/16 09.15.08:	Se abrio Aplicacion.
+2021/03/16 09.15.43:	Se abrio Aplicacion.
+2021/03/16 09.24.05:	Se abrio Aplicacion.
+2021/03/16 09.26.51:	Se abrio Aplicacion.
+2021/03/16 09.28.10:	Se abrio Aplicacion.
+2021/03/16 09.29.18:	Se abrio Aplicacion.
+2021/03/16 09.29.57:	Se abrio Aplicacion.
+2021/03/16 09.30.34:	Se abrio Aplicacion.
+2021/03/16 09.30.59:	Se abrio Aplicacion.
+2021/03/16 09.31.24:	Se abrio Aplicacion.
+2021/03/16 09.32.11:	Se abrio Aplicacion.
+2021/03/16 09.32.37:	Se abrio Aplicacion.
+2021/03/16 10.15.49:	Se abrio Aplicacion.
+2021/03/16 10.20.01:	Se abrio Aplicacion.
+2021/03/16 10.20.46:	Se abrio Aplicacion.
+2021/03/16 10.35.32:	Se abrio Aplicacion.
+2021/03/16 10.36.40:	Se abrio Aplicacion.
+2021/03/16 10.48.10:	Se abrio Aplicacion.
+2021/03/16 10.48.20:	Se abrio Aplicacion.
+2021/03/16 10.48.46:	Se abrio Aplicacion.
+2021/03/16 10.50.01:	Se abrio Aplicacion.
+2021/03/16 10.52.17:	Se abrio Aplicacion.
+2021/03/16 10.54.42:	Se abrio Aplicacion.
+2021/03/16 10.57.00:	Se abrio Aplicacion.
+2021/03/16 10.59.34:	Se abrio Aplicacion.
+2021/03/16 11.00.14:	Se abrio Aplicacion.
+2021/03/16 11.04.47:	Se abrio Aplicacion.
+2021/03/16 11.07.49:	Se abrio Aplicacion.
+2021/03/16 11.10.17:	Se abrio Aplicacion.
+2021/03/16 12.02.42:	Se abrio Aplicacion.
+2021/03/16 12.12.34:	Se abrio Aplicacion.
+2021/03/16 12.12.49:	Se abrio Aplicacion.
+2021/03/16 12.20.10:	Se abrio Aplicacion.
+2021/03/16 12.20.33:	Se abrio Aplicacion.
+2021/03/16 12.26.20:	Se abrio Aplicacion.
+2021/03/16 12.27.21:	Se abrio Aplicacion.
+2021/03/16 12.27.57:	Se abrio Aplicacion.
+2021/03/16 12.28.30:	Se abrio Aplicacion.
+2021/03/16 12.28.58:	Error en la conexion Ethernet para datos con la camara(Pantalla Mantenimiento.) A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:32100
+2021/03/16 12.29.45:	Se abrio Aplicacion.
+2021/03/16 12.31.14:	Se abrio Aplicacion.
+2021/03/16 12.31.24:	Se abrio Aplicacion.
+2021/03/16 12.31.36:	Se cerro la aplicacion. 
+2021/03/16 12.31.37:	Se abrio Aplicacion.
+2021/03/16 12.32.25:	Se cerro la aplicacion. 
+2021/03/16 12.32.25:	Se abrio Aplicacion.
+2021/03/16 12.32.28:	Se cerro la aplicacion. 
+2021/03/16 12.37.23:	Se abrio Aplicacion.
+2021/03/16 12.37.37:	Se cerro la aplicacion. 
+2021/03/16 12.37.37:	Se abrio Aplicacion.
+2021/03/16 12.37.44:	Se cerro la aplicacion. 
+2021/03/16 12.40.13:	Se abrio Aplicacion.
+2021/03/16 12.41.15:	Se abrio Aplicacion.
+2021/03/16 12.41.46:	Error en la conexion Ethernet para datos con la camara(Pantalla Mantenimiento.) A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:32100
+2021/03/16 12.44.35:	Se abrio Aplicacion.
+2021/03/16 12.45.23:	Se cerro la aplicacion. 
+2021/03/16 12.45.23:	Se abrio Aplicacion.
+2021/03/16 12.45.40:	Se cerro la aplicacion. 
+2021/03/16 12.59.34:	Se abrio Aplicacion.
+2021/03/16 01.00.05:	Se cerro la aplicacion. 
+2021/03/16 01.00.06:	Se abrio Aplicacion.
+2021/03/16 01.00.11:	Se cerro la aplicacion. 
+2021/03/16 02.03.09:	Se abrio Aplicacion.
+2021/03/16 03.12.35:	Se abrio Aplicacion.
+2021/03/16 03.13.00:	Se abrio Aplicacion.
+2021/03/16 03.18.12:	Se abrio Aplicacion.
+2021/03/16 03.30.39:	Se abrio Aplicacion.
+2021/03/16 03.30.51:	Se abrio Aplicacion.
+2021/03/16 03.31.40:	Se cerro la aplicacion. 
+2021/03/16 03.31.40:	Se abrio Aplicacion.
+2021/03/16 03.34.25:	Se cerro la aplicacion. 
+2021/03/16 03.39.16:	Se abrio Aplicacion.
+2021/03/16 03.40.26:	Se abrio Aplicacion.
+2021/03/16 03.41.13:	Se abrio Aplicacion.
+2021/03/16 03.41.41:	Se abrio Aplicacion.
+2021/03/16 03.43.29:	Se abrio Aplicacion.
+2021/03/16 03.44.02:	Se abrio Aplicacion.
+2021/03/16 03.45.52:	Se abrio Aplicacion.
+2021/03/16 03.48.13:	Se abrio Aplicacion.
+2021/03/16 03.48.38:	Se abrio Aplicacion.
+2021/03/16 03.51.30:	Se abrio Aplicacion.
+2021/03/16 03.52.13:	Se cerro la aplicacion. 
+2021/03/16 03.55.07:	Se abrio Aplicacion.
+2021/03/16 03.56.17:	Se abrio Aplicacion.
+2021/03/16 03.59.18:	Se abrio Aplicacion.
+2021/03/16 03.59.19:	Se cerro la aplicacion. 
+2021/03/16 04.00.54:	Se abrio Aplicacion.
+2021/03/16 04.01.28:	Se abrio Aplicacion.
+2021/03/16 04.01.29:	Se cerro la aplicacion. 
+2021/03/16 04.39.36:	Se abrio Aplicacion.
+2021/03/16 04.39.56:	Se abrio Aplicacion.
+2021/03/16 04.39.57:	Se cerro la aplicacion. 
+2021/03/16 04.44.02:	Se abrio Aplicacion.
+2021/03/16 04.48.29:	Se abrio Aplicacion.
+2021/03/16 04.48.30:	Se cerro la aplicacion. 
+2021/03/16 04.52.41:	Se abrio Aplicacion.
+2021/03/16 04.53.15:	Se cerro la aplicacion. 
+2021/03/16 04.53.15:	Se abrio Aplicacion.
+2021/03/16 04.53.54:	Se cerro la aplicacion. 
+2021/03/16 04.53.55:	Se abrio Aplicacion.
+2021/03/16 04.53.57:	Se cerro la aplicacion. 
+2021/03/16 04.57.33:	Se abrio Aplicacion.
+2021/03/16 04.58.44:	Se cerro la aplicacion. 

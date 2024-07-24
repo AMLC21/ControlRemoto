@@ -1,0 +1,65 @@
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\Sistema_Vision_StingRay.exe.config
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\Sistema_Vision_StingRay.exe
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\Sistema_Vision_StingRay.pdb
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.csprojAssemblyReference.cache
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.Properties.Resources.resources
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.csproj.GenerateResource.cache
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.csproj.CoreCompileInputs.cache
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.exe
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.pdb
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.Sistema_Vision.resources
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\TamuseFunctions.dll
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.csproj.CopyComplete
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.Password.resources
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.Mantenimiento.resources
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.Parametros.resources
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\MccDaq.dll
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\MccDaq.xml
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.exe.config
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\ModbusTCP.dll
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\ModbusTCP.pdb
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\ModbusTCP.xml
+C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.Impresion.resources
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\Sistema_Vision_StingRay.exe.config
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\Sistema_Vision_StingRay.exe
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\Sistema_Vision_StingRay.pdb
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\MccDaq.dll
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\TamuseFunctions.dll
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\MccDaq.xml
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\ModbusTCP.pdb
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\ModbusTCP.xml
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.csprojAssemblyReference.cache
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.exe.config
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.Impresion.resources
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.Sistema_Vision.resources
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.Mantenimiento.resources
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.Parametros.resources
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.Password.resources
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.Properties.Resources.resources
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.csproj.GenerateResource.cache
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.csproj.CoreCompileInputs.cache
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.csproj.CopyComplete
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.exe
+C:\Users\Prog-9\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.pdb
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\Sistema_Vision_StingRay.exe.config
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\Sistema_Vision_StingRay.exe
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\Sistema_Vision_StingRay.pdb
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\TamuseFunctions.dll
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\MccDaq.xml
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\ModbusTCP.pdb
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\ModbusTCP.xml
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.csproj.AssemblyReference.cache
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.exe.config
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.Aviso.resources
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.Impresion.resources
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.Sistema_Vision.resources
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.Mantenimiento.resources
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.Parametros.resources
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.Password.resources
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.Properties.Resources.resources
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.csproj.GenerateResource.cache
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.csproj.CoreCompileInputs.cache
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.csproj.CopyComplete
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.exe
+C:\Users\Diseño 03\Desktop\Sistema_Vision_StingRay\Sistema_Vision_StingRay\obj\Debug\Sistema_Vision_StingRay.pdb

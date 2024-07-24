@@ -1,0 +1,19 @@
+2021/03/05 07.39.47:	Se abrio Aplicacion.
+2021/03/05 07.40.17:	Error en conexion con la camara MODBUS. A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:502
+2021/03/05 07.58.15:	Se abrio Aplicacion.
+2021/03/05 08.00.21:	Se abrio Aplicacion.
+2021/03/05 08.01.11:	Error en conexion con la camara MODBUS. A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:502
+2021/03/05 08.06.45:	Se abrio Aplicacion.
+2021/03/05 08.07.10:	Error en conexion con la camara MODBUS. A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:502
+2021/03/05 09.18.54:	Se abrio Aplicacion.
+2021/03/05 09.19.32:	Error en conexion con la camara MODBUS. A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:502
+2021/03/05 03.30.17:	Se abrio Aplicacion.
+2021/03/05 03.30.18:	Se cerro la aplicacion. 
+2021/03/05 03.30.40:	Se abrio Aplicacion.
+2021/03/05 03.30.42:	Se cerro la aplicacion. 
+2021/03/05 03.31.49:	Se abrio Aplicacion.
+2021/03/05 03.38.20:	Se abrio Aplicacion.
+2021/03/05 03.43.12:	Se abrio Aplicacion.
+2021/03/05 03.45.09:	Se cerro la aplicacion. 
+2021/03/05 03.45.29:	Se abrio Aplicacion.
+2021/03/05 03.46.08:	Se abrio Aplicacion.

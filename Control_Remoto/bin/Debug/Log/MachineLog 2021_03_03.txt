@@ -1,0 +1,94 @@
+2021/03/03 07.08.13:	Se abrio Aplicacion.
+2021/03/03 07.29.59:	Se abrio Aplicacion.
+2021/03/03 07.31.52:	Se abrio Aplicacion.
+2021/03/03 07.34.16:	Se abrio Aplicacion.
+2021/03/03 07.35.25:	Error en la conexion Ethernet para datos con la camara(Pantalla Mantenimiento.) A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:32100
+2021/03/03 07.35.44:	Se abrio Aplicacion.
+2021/03/03 07.36.55:	Error en la conexion Ethernet para datos con la camara(Pantalla Mantenimiento.) A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:32100
+2021/03/03 07.46.50:	Se abrio Aplicacion.
+2021/03/03 07.47.09:	Se abrio Aplicacion.
+2021/03/03 07.47.39:	Error en la conexion Ethernet para datos con la camara(Pantalla Mantenimiento.) A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:32100
+2021/03/03 07.48.00:	Error en la conexion Ethernet para imagen con la camara(Pantalla Mantenimiento). A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:32200
+2021/03/03 07.48.21:	Error en conexion con la camara MODBUS(Pantalla Mantenimiento). A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:502
+2021/03/03 07.50.21:	Se abrio Aplicacion.
+2021/03/03 07.50.48:	Error en la conexion Ethernet para datos con la camara(Pantalla Mantenimiento.) A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:32100
+2021/03/03 07.51.10:	Error en la conexion Ethernet para imagen con la camara(Pantalla Mantenimiento). A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:32200
+2021/03/03 07.51.31:	Error en conexion con la camara MODBUS(Pantalla Mantenimiento). A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:502
+2021/03/03 07.53.08:	Se abrio Aplicacion.
+2021/03/03 07.53.34:	Error en la conexion Ethernet para datos con la camara(Pantalla Mantenimiento.) A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:32100
+2021/03/03 07.53.55:	Error en la conexion Ethernet para imagen con la camara(Pantalla Mantenimiento). A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:32200
+2021/03/03 07.54.16:	Error en conexion con la camara MODBUS(Pantalla Mantenimiento). A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:502
+2021/03/03 07.54.38:	Error en la conexion Ethernet para datos con la camara(Pantalla Mantenimiento.) A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:32100
+2021/03/03 07.54.59:	Error en la conexion Ethernet para imagen con la camara(Pantalla Mantenimiento). A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:32200
+2021/03/03 07.55.20:	Error en conexion con la camara MODBUS(Pantalla Mantenimiento). A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:502
+2021/03/03 07.59.01:	Se abrio Aplicacion.
+2021/03/03 07.59.28:	Error en la conexion Ethernet para datos con la camara(Pantalla Mantenimiento.) A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:32100
+2021/03/03 07.59.49:	Error en la conexion Ethernet para imagen con la camara(Pantalla Mantenimiento). A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:32200
+2021/03/03 08.00.10:	Error en conexion con la camara MODBUS(Pantalla Mantenimiento). A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:502
+2021/03/03 08.00.42:	Se abrio Aplicacion.
+2021/03/03 08.01.20:	Se abrio Aplicacion.
+2021/03/03 08.02.11:	Error en la conexion Ethernet para datos con la camara(Pantalla Mantenimiento.) A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:32100
+2021/03/03 08.02.43:	Error en la conexion Ethernet para imagen con la camara(Pantalla Mantenimiento). A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:32200
+2021/03/03 08.03.13:	Error en conexion con la camara MODBUS(Pantalla Mantenimiento). A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:502
+2021/03/03 08.05.10:	Se abrio Aplicacion.
+2021/03/03 08.05.41:	Error en la conexion Ethernet para datos con la camara(Pantalla Mantenimiento.) A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:32100
+2021/03/03 08.06.02:	Error en la conexion Ethernet para imagen con la camara(Pantalla Mantenimiento). A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:32200
+2021/03/03 08.06.23:	Error en conexion con la camara MODBUS(Pantalla Mantenimiento). A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:502
+2021/03/03 08.06.44:	Se cerro la aplicacion. 
+2021/03/03 08.06.44:	Se abrio Aplicacion.
+2021/03/03 08.06.48:	Se cerro la aplicacion. 
+2021/03/03 11.02.10:	Se abrio Aplicacion.
+2021/03/03 11.02.45:	Se cerro la aplicacion. 
+2021/03/03 11.02.46:	Se abrio Aplicacion.
+2021/03/03 11.02.55:	Se abrio Aplicacion.
+2021/03/03 11.03.18:	Se cerro la aplicacion. 
+2021/03/03 11.03.19:	Se abrio Aplicacion.
+2021/03/03 11.03.56:	Se cerro la aplicacion. 
+2021/03/03 11.03.57:	Se abrio Aplicacion.
+2021/03/03 11.06.17:	Se cerro la aplicacion. 
+2021/03/03 11.06.42:	Se abrio Aplicacion.
+2021/03/03 11.10.35:	Se cerro la aplicacion. 
+2021/03/03 11.10.44:	Se abrio Aplicacion.
+2021/03/03 11.11.14:	Se cerro la aplicacion. 
+2021/03/03 11.11.15:	Se abrio Aplicacion.
+2021/03/03 11.11.31:	Se cerro la aplicacion. 
+2021/03/03 11.11.33:	Se abrio Aplicacion.
+2021/03/03 11.13.38:	Se abrio Aplicacion.
+2021/03/03 11.14.00:	Se abrio Aplicacion.
+2021/03/03 11.14.33:	Se cerro la aplicacion. 
+2021/03/03 11.14.33:	Se abrio Aplicacion.
+2021/03/03 11.16.24:	Se cerro la aplicacion. 
+2021/03/03 11.16.27:	Se abrio Aplicacion.
+2021/03/03 11.23.31:	Se abrio Aplicacion.
+2021/03/03 11.25.16:	Se abrio Aplicacion.
+2021/03/03 11.43.26:	Se abrio Aplicacion.
+2021/03/03 11.43.30:	Error al guardar los datos en csv. The process cannot access the file 'C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\Settings\marzo_2021.csv' because it is being used by another process.
+2021/03/03 11.53.29:	Se abrio Aplicacion.
+2021/03/03 11.54.25:	Se abrio Aplicacion.
+2021/03/03 11.55.22:	Se abrio Aplicacion.
+2021/03/03 11.55.47:	Se abrio Aplicacion.
+2021/03/03 11.56.47:	Error al guardar los datos en csv. The process cannot access the file 'C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\Settings\marzo_2021.csv' because it is being used by another process.
+2021/03/03 12.03.05:	Se abrio Aplicacion.
+2021/03/03 12.03.31:	Se cerro la aplicacion. 
+2021/03/03 12.06.55:	Se abrio Aplicacion.
+2021/03/03 12.17.05:	Se abrio Aplicacion.
+2021/03/03 12.19.03:	Se abrio Aplicacion.
+2021/03/03 12.19.34:	Se abrio Aplicacion.
+2021/03/03 12.19.41:	Se cerro la aplicacion. 
+2021/03/03 12.20.30:	Se abrio Aplicacion.
+2021/03/03 12.21.40:	Se abrio Aplicacion.
+2021/03/03 12.21.46:	Se cerro la aplicacion. 
+2021/03/03 12.22.31:	Se abrio Aplicacion.
+2021/03/03 12.22.57:	Se abrio Aplicacion.
+2021/03/03 12.23.44:	Se abrio Aplicacion.
+2021/03/03 12.23.48:	Error en Main_Load. Input string was not in a correct format.
+2021/03/03 12.24.04:	Se abrio Aplicacion.
+2021/03/03 12.24.31:	Se abrio Aplicacion.
+2021/03/03 12.25.18:	Se abrio Aplicacion.
+2021/03/03 12.28.27:	Se abrio Aplicacion.
+2021/03/03 12.29.20:	Se abrio Aplicacion.
+2021/03/03 12.30.07:	Se abrio Aplicacion.
+2021/03/03 12.30.43:	Se abrio Aplicacion.
+2021/03/03 01.03.34:	Se abrio Aplicacion.
+2021/03/03 01.08.06:	Se abrio Aplicacion.
+2021/03/03 01.08.17:	Se abrio Aplicacion.

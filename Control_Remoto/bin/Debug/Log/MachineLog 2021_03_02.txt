@@ -1,0 +1,168 @@
+2021/03/02 07.51.25:	Se abrio Aplicacion.
+2021/03/02 07.52.24:	Se cerro la aplicacion. 
+2021/03/02 07.56.05:	Se abrio Aplicacion.
+2021/03/02 08.23.05:	Se cerro la aplicacion. 
+2021/03/02 11.49.10:	Se abrio Aplicacion.
+2021/03/02 11.52.10:	Se abrio Aplicacion.
+2021/03/02 11.55.41:	Se abrio Aplicacion.
+2021/03/02 12.00.02:	Se abrio Aplicacion.
+2021/03/02 12.21.25:	Se abrio Aplicacion.
+2021/03/02 12.31.22:	Se abrio Aplicacion.
+2021/03/02 12.32.04:	Se abrio Aplicacion.
+2021/03/02 12.34.14:	Se abrio Aplicacion.
+2021/03/02 12.35.47:	Se abrio Aplicacion.
+2021/03/02 12.39.55:	Se abrio Aplicacion.
+2021/03/02 12.42.36:	Se abrio Aplicacion.
+2021/03/02 12.45.13:	Se abrio Aplicacion.
+2021/03/02 12.45.59:	Se abrio Aplicacion.
+2021/03/02 12.55.46:	Se abrio Aplicacion.
+2021/03/02 01.14.55:	Se abrio Aplicacion.
+2021/03/02 01.24.08:	Se abrio Aplicacion.
+2021/03/02 01.35.20:	Se abrio Aplicacion.
+2021/03/02 01.43.35:	Se abrio Aplicacion.
+2021/03/02 01.43.37:	Se cerro la aplicacion. 
+2021/03/02 01.45.28:	Se abrio Aplicacion.
+2021/03/02 03.22.17:	Se abrio Aplicacion.
+2021/03/02 03.23.27:	Se abrio Aplicacion.
+2021/03/02 03.38.08:	Se abrio Aplicacion.
+2021/03/02 03.52.54:	Se abrio Aplicacion.
+2021/03/02 03.53.13:	Se cerro la aplicacion. 
+2021/03/02 03.53.13:	Se abrio Aplicacion.
+2021/03/02 03.53.14:	Se abrio Aplicacion.
+2021/03/02 03.54.07:	Se cerro la aplicacion. 
+2021/03/02 03.54.08:	Se abrio Aplicacion.
+2021/03/02 03.54.18:	Error en Main_Load. The process cannot access the file 'C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\Log\MachineLog 2021_03_02.txt' because it is being used by another process.
+2021/03/02 03.54.24:	Se cerro la aplicacion. 
+2021/03/02 03.54.25:	Se cerro la aplicacion. 
+2021/03/02 03.54.26:	Se cerro la aplicacion. 
+2021/03/02 03.54.38:	Se abrio Aplicacion.
+2021/03/02 03.54.50:	Se cerro la aplicacion. 
+2021/03/02 03.54.50:	Se abrio Aplicacion.
+2021/03/02 03.54.50:	Se abrio Aplicacion.
+2021/03/02 03.55.04:	Se cerro la aplicacion. 
+2021/03/02 03.55.04:	Se abrio Aplicacion.
+2021/03/02 03.55.04:	Se abrio Aplicacion.
+2021/03/02 03.55.19:	Se cerro la aplicacion. 
+2021/03/02 03.55.20:	Se cerro la aplicacion. 
+2021/03/02 03.55.20:	Se cerro la aplicacion. 
+2021/03/02 03.57.11:	Se abrio Aplicacion.
+2021/03/02 03.57.24:	Se cerro la aplicacion. 
+2021/03/02 03.57.24:	Se abrio Aplicacion.
+2021/03/02 03.57.54:	Error en Main_Load. The process cannot access the file 'C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\Log\MachineLog 2021_03_02.txt' because it is being used by another process.
+2021/03/02 03.57.58:	Se cerro la aplicacion. 
+2021/03/02 03.58.00:	Se cerro la aplicacion. 
+2021/03/02 03.59.00:	Se abrio Aplicacion.
+2021/03/02 03.59.13:	Se cerro la aplicacion. 
+2021/03/02 03.59.14:	Se abrio Aplicacion.
+2021/03/02 03.59.15:	Error en Main_Load. The process cannot access the file 'C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\Log\MachineLog 2021_03_02.txt' because it is being used by another process.
+2021/03/02 03.59.20:	Se cerro la aplicacion. 
+2021/03/02 03.59.21:	Se cerro la aplicacion. 
+2021/03/02 03.59.27:	Se abrio Aplicacion.
+2021/03/02 03.59.42:	Se cerro la aplicacion. 
+2021/03/02 03.59.42:	Se abrio Aplicacion.
+2021/03/02 03.59.42:	Se abrio Aplicacion.
+2021/03/02 03.59.52:	Se cerro la aplicacion. 
+2021/03/02 04.00.20:	Se cerro la aplicacion. 
+2021/03/02 04.02.41:	Se abrio Aplicacion.
+2021/03/02 04.02.54:	Se abrio Aplicacion.
+2021/03/02 04.02.54:	Se abrio Aplicacion.
+2021/03/02 04.02.54:	Se abrio Aplicacion.
+2021/03/02 04.02.54:	Se abrio Aplicacion.
+2021/03/02 04.02.54:	Se abrio Aplicacion.
+2021/03/02 04.02.55:	Se abrio Aplicacion.
+2021/03/02 04.02.55:	Se abrio Aplicacion.
+2021/03/02 04.02.55:	Se abrio Aplicacion.
+2021/03/02 04.02.55:	Se abrio Aplicacion.
+2021/03/02 04.02.56:	Se abrio Aplicacion.
+2021/03/02 04.02.56:	Se abrio Aplicacion.
+2021/03/02 04.02.56:	Se abrio Aplicacion.
+2021/03/02 04.02.56:	Se abrio Aplicacion.
+2021/03/02 04.02.56:	Se abrio Aplicacion.
+2021/03/02 04.02.57:	Se abrio Aplicacion.
+2021/03/02 04.02.57:	Se abrio Aplicacion.
+2021/03/02 04.02.57:	Se abrio Aplicacion.
+2021/03/02 04.02.57:	Se abrio Aplicacion.
+2021/03/02 04.02.57:	Se abrio Aplicacion.
+2021/03/02 04.02.57:	Se abrio Aplicacion.
+2021/03/02 04.02.58:	Se abrio Aplicacion.
+2021/03/02 04.02.58:	Se abrio Aplicacion.
+2021/03/02 04.02.58:	Se abrio Aplicacion.
+2021/03/02 04.02.58:	Se abrio Aplicacion.
+2021/03/02 04.02.58:	Se abrio Aplicacion.
+2021/03/02 04.02.58:	Se abrio Aplicacion.
+2021/03/02 04.02.58:	Se abrio Aplicacion.
+2021/03/02 04.02.58:	Se abrio Aplicacion.
+2021/03/02 04.02.58:	Se abrio Aplicacion.
+2021/03/02 04.02.58:	Se abrio Aplicacion.
+2021/03/02 04.03.01:	Se cerro la aplicacion. 
+2021/03/02 04.03.07:	Se cerro la aplicacion. 
+2021/03/02 04.03.07:	Error al cerrar el programa. The process cannot access the file 'C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\Log\MachineLog 2021_03_02.txt' because it is being used by another process.
+2021/03/02 04.03.07:	Error al cerrar el programa. The process cannot access the file 'C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\Log\MachineLog 2021_03_02.txt' because it is being used by another process.
+2021/03/02 04.03.13:	Se cerro la aplicacion. 
+2021/03/02 04.03.14:	Se cerro la aplicacion. 
+2021/03/02 04.03.14:	Se cerro la aplicacion. 
+2021/03/02 04.03.14:	Se cerro la aplicacion. 
+2021/03/02 04.03.14:	Se cerro la aplicacion. 
+2021/03/02 04.03.15:	Se cerro la aplicacion. 
+2021/03/02 04.03.15:	Se cerro la aplicacion. 
+2021/03/02 04.03.15:	Se cerro la aplicacion. 
+2021/03/02 04.03.15:	Se cerro la aplicacion. 
+2021/03/02 04.03.15:	Se cerro la aplicacion. 
+2021/03/02 04.03.15:	Se cerro la aplicacion. 
+2021/03/02 04.03.16:	Se cerro la aplicacion. 
+2021/03/02 04.03.16:	Se cerro la aplicacion. 
+2021/03/02 04.03.16:	Se cerro la aplicacion. 
+2021/03/02 04.03.16:	Se cerro la aplicacion. 
+2021/03/02 04.03.16:	Se cerro la aplicacion. 
+2021/03/02 04.03.16:	Se cerro la aplicacion. 
+2021/03/02 04.03.17:	Se cerro la aplicacion. 
+2021/03/02 04.03.17:	Se cerro la aplicacion. 
+2021/03/02 04.03.17:	Se cerro la aplicacion. 
+2021/03/02 04.03.17:	Se cerro la aplicacion. 
+2021/03/02 04.03.17:	Se cerro la aplicacion. 
+2021/03/02 04.03.18:	Se cerro la aplicacion. 
+2021/03/02 04.03.18:	Se cerro la aplicacion. 
+2021/03/02 04.03.18:	Se cerro la aplicacion. 
+2021/03/02 04.03.23:	Se cerro la aplicacion. 
+2021/03/02 04.03.23:	Se cerro la aplicacion. 
+2021/03/02 04.03.23:	Se cerro la aplicacion. 
+2021/03/02 04.03.23:	Se cerro la aplicacion. 
+2021/03/02 04.03.23:	Se cerro la aplicacion. 
+2021/03/02 04.03.23:	Se cerro la aplicacion. 
+2021/03/02 04.03.24:	Se cerro la aplicacion. 
+2021/03/02 04.03.24:	Se cerro la aplicacion. 
+2021/03/02 04.03.24:	Se cerro la aplicacion. 
+2021/03/02 04.03.24:	Se cerro la aplicacion. 
+2021/03/02 04.03.24:	Se cerro la aplicacion. 
+2021/03/02 04.03.24:	Se cerro la aplicacion. 
+2021/03/02 04.03.25:	Se cerro la aplicacion. 
+2021/03/02 04.03.25:	Se cerro la aplicacion. 
+2021/03/02 04.03.25:	Se cerro la aplicacion. 
+2021/03/02 04.03.25:	Se cerro la aplicacion. 
+2021/03/02 04.07.05:	Se abrio Aplicacion.
+2021/03/02 04.07.17:	Se cerro la aplicacion. 
+2021/03/02 04.07.17:	Se abrio Aplicacion.
+2021/03/02 04.07.17:	Se abrio Aplicacion.
+2021/03/02 04.07.28:	Se cerro la aplicacion. 
+2021/03/02 04.07.28:	Se cerro la aplicacion. 
+2021/03/02 04.07.42:	Se abrio Aplicacion.
+2021/03/02 04.07.53:	Se cerro la aplicacion. 
+2021/03/02 04.07.53:	Se abrio Aplicacion.
+2021/03/02 04.07.58:	Error en Main_Load. The process cannot access the file 'C:\Users\Prog-9\Documents\Martin\Sistema_Vision_StingRay\Sistema_Vision_StingRay\bin\Debug\Log\MachineLog 2021_03_02.txt' because it is being used by another process.
+2021/03/02 04.08.02:	Se cerro la aplicacion. 
+2021/03/02 04.08.03:	Se cerro la aplicacion. 
+2021/03/02 04.08.58:	Se abrio Aplicacion.
+2021/03/02 04.09.08:	Se cerro la aplicacion. 
+2021/03/02 04.09.59:	Se abrio Aplicacion.
+2021/03/02 04.10.12:	Se cerro la aplicacion. 
+2021/03/02 04.10.13:	Se abrio Aplicacion.
+2021/03/02 04.10.13:	Se abrio Aplicacion.
+2021/03/02 04.10.19:	Se cerro la aplicacion. 
+2021/03/02 04.10.20:	Se cerro la aplicacion. 
+2021/03/02 04.12.23:	Se abrio Aplicacion.
+2021/03/02 04.13.07:	Se abrio Aplicacion.
+2021/03/02 04.13.21:	Se cerro la aplicacion. 
+2021/03/02 04.13.22:	Se abrio Aplicacion.
+2021/03/02 04.13.40:	Se cerro la aplicacion. 
+2021/03/02 04.13.41:	Se abrio Aplicacion.
+2021/03/02 04.13.44:	Se cerro la aplicacion. 

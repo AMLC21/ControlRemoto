@@ -1,0 +1,13 @@
+2021/06/29 08.54.31:	Se abrio Aplicacion.
+2021/06/29 08.54.50:	Se cerro la aplicacion. 
+2021/06/29 09.10.05:	Se abrio Aplicacion.
+2021/06/29 09.10.29:	Se cerro la aplicacion. 
+2021/06/29 09.10.30:	Se abrio Aplicacion.
+2021/06/29 09.13.05:	Se abrio Aplicacion.
+2021/06/29 09.28.54:	Se abrio Aplicacion.
+2021/06/29 10.15.29:	Se abrio Aplicacion.
+2021/06/29 10.16.47:	Se abrio Aplicacion.
+2021/06/29 10.36.23:	Se abrio Aplicacion.
+2021/06/29 10.36.53:	Error en la conexion Ethernet para datos con la camara(Pantalla Mantenimiento.) A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 192.168.1.85:32100
+2021/06/29 12.21.02:	Se abrio Aplicacion.
+2021/06/29 01.01.42:	Se abrio Aplicacion.

@@ -1,0 +1,2 @@
+2021/06/28 01.22.37:	Se abrio Aplicacion.
+2021/06/28 01.23.15:	Se cerro la aplicacion. 
