@@ -96,7 +96,10 @@ namespace Control_Remoto
 
         private void btn_iniciar_detener_Click(object sender, EventArgs e)//Click en iniciar
         {
-            try
+            estatusPieza = "BUENA";
+            fails = "0";
+            resultReport(modelo, operador, estatusPieza, fails);
+         /*   try
             {
                 if (!programaIniciado)//Si programa no ha sido iniciado (Acciones para boton iniciar)
                 {
@@ -135,7 +138,7 @@ namespace Control_Remoto
                     
                 }
             }
-            catch { }           
+            catch { }          */ 
 
         }     
         private void BtnCerrar_Click(object sender, EventArgs e)

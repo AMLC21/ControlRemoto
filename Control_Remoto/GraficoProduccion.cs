@@ -55,6 +55,7 @@ namespace Control_Remoto
 
             weeklist();
             week = numeroSemana(DateTime.Now).ToString();
+            //MessageBox.Show("Numero de semana es " + week);
 
         }
         private void ChGraficoSemanal_Click(object sender, EventArgs e)
@@ -94,7 +95,7 @@ namespace Control_Remoto
             ChGraficoDiario.Series.FindByName("Buenas").Points.Clear();
             ChGraficoDiario.Series.FindByName("Malas").Points.Clear();
             int yearsel = int.Parse(CbxAñoGD.Text);
-            int messel = int.Parse(CbxMesesGD.Text);
+            int messel = obtainMonthShort(CbxMesesGD.Text); //int.Parse(CbxMesesGD.Text);
             int diasel = int.Parse(CbxDiasGD.Text);
             DateTime datebayo = new DateTime(yearsel, messel, diasel);
             weekselect = numeroSemana(datebayo).ToString();
@@ -114,7 +115,11 @@ namespace Control_Remoto
 
         private void btnSemanal_Click(object sender, EventArgs e)
         {
+            ChGraficoSemanal.Series.FindByName("Buenas").Points.Clear();
+            ChGraficoSemanal.Series.FindByName("Malas").Points.Clear();
             resultados_semanales(CbxSemana.Text);
+            ChGraficoSemanal.Series.FindByName("Buenas").Points.Add(buenas3);
+            ChGraficoSemanal.Series.FindByName("Malas").Points.Add(malas3);
         }
 
         #region Eventos Para Ubicar Las Graficas
@@ -397,6 +402,7 @@ namespace Control_Remoto
                 CbxAñoGD.Enabled = false;
                 ChGraficoDiario.Series.FindByName("Buenas").Points.Clear();
                 ChGraficoDiario.Series.FindByName("Malas").Points.Clear();
+                week = numeroSemana(DateTime.Now).ToString();                
                 resultados_diarios(dia, mes, year, week);
                 ChGraficoDiario.Series.FindByName("Buenas").Points.Add(buenas);
                 ChGraficoDiario.Series.FindByName("Malas").Points.Add(malas);
@@ -434,9 +440,15 @@ namespace Control_Remoto
         {
             if (ChBoxGraficoSemanal.Checked)
             {
+                week = numeroSemana(DateTime.Now).ToString();
                 CbxSemana.Enabled = false;
 
-               
+                ChGraficoSemanal.Series.FindByName("Buenas").Points.Clear();
+                ChGraficoSemanal.Series.FindByName("Malas").Points.Clear();
+                resultados_semanales2(week);
+                ChGraficoSemanal.Series.FindByName("Buenas").Points.Add(buenas3);
+                ChGraficoSemanal.Series.FindByName("Malas").Points.Add(malas3);
+
             }
             else
             {
@@ -514,39 +526,233 @@ namespace Control_Remoto
 
         public void resultados_semanales(string weekselected) //Funcion para obtener resultados semanales de los archivos de reportes
         {
+            //La cadena que se recibe aparece como "Semana X de , 20XX = dia1-mes1-año1-dia2-mes2-año2
             buenas3 = 0;
             malas3 = 0;
-            string[] weekrange = weekselected.Split('=');
-            string range = weekrange[1];
-            string[] range2 = range.Split('-');
+            string[] weekrange = weekselected.Split('='); //Separa la cadena seleccionada (posicion [0] primera parte antes del = y posicion [1] segunda parte.
+            string range = weekrange[1]; //Guardar segunda parte en una variable (el rango de fechas que ocupa la semana)
+            string[] range2 = range.Split('-'); //Define otra cadena para guardar cada elemento del rango de fechas separando dias, meses y años
             string carpeta1, carpeta2;
             int dianum;
-            string[] wrange = weekrange[0].Split(',');
-            string tempWeek = wrange[0].Remove(0,7);
-            char[] MyChar = { 'd', 'e', ' ' };
-            tempWeek = tempWeek.TrimEnd(MyChar);
-            
-                        
-            if(range2[1] == range2[4]) //Si los rangos son dentro del mismo mes
+            string[] wrange = weekrange[0].Split(','); // toma la primera parte de la cadena antes del = y la divide por la , para sacar el numero de semana
+            string tempWeek = wrange[0].Remove(0,7); //Toma el primer elemento de la division "semana x de " y remueve los primeros 7 caracteres para eliminar palabra "semana"
+            char[] MyChar = { 'd', 'e', ' ' }; //Arreglo de caracteres que debe eliminar del final de la cadena anterior resultante
+            tempWeek = tempWeek.TrimEnd(MyChar); //Quita los caracteres finales del string segun el arreglo anterior para dejar solo el numero de la semana.       
+
+            //range[0] = dia1 --- [1] = mes1 --- [2] = año1 --- [3] = dia2 --- [4] = mes2 --- [5] = año2
+
+            try
             {
                 carpeta1 = obtainFolder(range2[1], range2[2]);
-                for(int i = 0; i < 7; i++)
+                string[] files = Directory.GetFiles(carpeta1); //obtener los archivos que contiene la carpeta
+                foreach (string f in files)
                 {
-                    dianum = int.Parse(range2[0]+i);
-                    sumaDiariaSem(dianum.ToString(), carpeta1, tempWeek);
+                    string[] name = f.Split('_'); //Para dividir los componentes del nombre por el separador del guion bajo
+                    string[] namesemana = name[4].Split('.');//Para quitarle la extension .csv y que quede solo el numero de semana
+                    string[] list = File.ReadAllLines(f); //Asigna a la lista el contenido del archivo en curso, en un arreglo de lineas por cada linea que contenga el archivo
+                    if (namesemana[0] == tempWeek)
+                    {
+                        for (int i = 1; i < list.Length; i++) //Recorrer la lista con el contenido del archivo (linea por linea)
+                        {
+                            string[] vals = list[i].Split(',');
+                            if (vals[4] == "BUENA")
+                            {
+                                buenas3++;
+                            }
+                            else if (vals[4] == "MALA")
+                            {
+                                malas3++;
+                            }
+
+                        }
+                    }
                 }
 
+                if (range2[1] != range2[4]) //Si el rango de fechas son de distintos meses
+                {
+                    carpeta2 = obtainFolder(range2[4], range2[5]); //Obtener carpeta del otro rango de fechas
+                    string[] files2 = Directory.GetFiles(carpeta2);
+                    foreach (string f2 in files2)
+                    {
+                        string[] name2 = f2.Split('_');
+                        string[] namesemana2 = name2[4].Split('.');
+                        string[] list2 = File.ReadAllLines(f2);
+                        if (namesemana2[0] == tempWeek)
+                        {
+                            for (int i = 1; i < list2.Length; i++)
+                            {
+                                string[] vals2 = list2[i].Split(',');
+                                if (vals2[4] == "BUENA")
+                                {
+                                    buenas3++;
+                                }
+                                else if (vals2[4] == "MALA")
+                                {
+                                    malas3++;
+                                }
+                            }
+                        }
+                    }
+                }
             }
-            else //los rangos son de diferentes meses
+            catch
             {
-                carpeta1 = obtainFolder(range2[1], range2[2]);
-                carpeta2 = obtainFolder(range2[4], range2[5]);
 
-            }
-            
-            //MessageBox.Show(range2[0]+"del mes "+ range2[1]+"del año "+ range2[2]+" y "+ range2[3] + "del mes " + range2[4] + "del año " + range2[5]);
+            }         
+                      
+                      
 
         }
+
+        public void resultados_semanales2(string numweek) //Funcion para obtener resultados semanales de semana actual solicitando solo el numero de semana
+        {
+            buenas3 = 0;
+            malas3 = 0;
+
+            try
+            {
+                string carpeta = obtainFolder(mes, year); //Carpeta del mes actual
+                int yearant = int.Parse(year);
+                if (mes == "enero")
+                {
+                    yearant = yearant - 1;
+                }
+                string carpeta2 = obtainFolder(mesAnterior(mes), yearant.ToString()); //Carpeta del mes anterior
+
+                //Busqueda en la primera carpeta (Del mes actual)
+                string[] files = Directory.GetFiles(carpeta); //Carpeta del mes actual
+                foreach (string f in files) //f es el nombre del archivo en curso
+                {
+                    string[] name = f.Split('_'); //Para dividir los componentes del nombre por el separador del guion bajo
+                    string[] namesemana = name[4].Split('.');//Para quitarle la extension .csv y que quede solo el numero de semana
+                    string[] list = File.ReadAllLines(f); //Asigna a la lista el contenido del archivo en curso, en un arreglo de lineas por cada linea que contenga el archivo
+                    if (namesemana[0] == numweek) //Compara si el archivo actual pertenece al numero de semana solicitado
+                    {
+                        for (int i = 1; i < list.Length; i++) //Recorrer la lista con el contenido del archivo (linea por linea)
+                        {
+                            string[] vals = list[i].Split(',');
+                            if (vals[4] == "BUENA")
+                            {
+                                buenas3++;
+                            }
+                            else if (vals[4] == "MALA")
+                            {
+                                malas3++;
+                            }
+
+                        }
+                    }
+
+
+                }
+
+                //Por si la semana abarca dos meses (Carpeta del mes anterior)
+
+                string[] files2 = Directory.GetFiles(carpeta2);
+                foreach (string f2 in files2)
+                {
+                    string[] name = f2.Split('_'); //Para dividir los componentes del nombre por el separador del guion bajo
+                    string[] namesemana = name[4].Split('.');//Para quitarle la extension .csv y que quede solo el numero de semana
+                    string[] list = File.ReadAllLines(f2);
+
+                    if (namesemana[0] == numweek)
+                    {
+                        for (int i = 1; i < list.Length; i++)
+                        {
+                            string[] vals = list[i].Split(',');
+                            if (vals[4] == "BUENA")
+                            {
+                                buenas3++;
+                            }
+                            else if (vals[4] == "MALA")
+                            {
+                                malas3++;
+                            }
+
+                        }
+                    }
+
+                }
+            }
+            catch
+            {
+
+            }
+          
+            
+
+        }
+
+        public string mesAnterior(string mesactual)
+        {
+            string mesant="";
+            switch (mesactual)
+            {
+                case "enero":
+                    {
+                        mesant = "diciembre";
+                        break;
+                    }
+                case "febrero":
+                    {
+                        mesant = "enero";
+                        break;
+                    }
+                case "marzo":
+                    {
+                        mesant = "febrero";
+                        break;
+                    }
+                case "abril":
+                    {
+                        mesant = "marzo";
+                        break;
+                    }
+                case "mayo":
+                    {
+                        mesant = "abril";
+                        break;
+                    }
+                case "junio":
+                    {
+                        mesant = "mayo";
+                        break;
+                    }
+                case "julio":
+                    {
+                        mesant = "junio";
+                        break;
+                    }
+                case "agosto":
+                    {
+                        mesant = "julio";
+                        break;
+                    }
+                case "septiembre":
+                    {
+                        mesant = "agosto";
+                        break;
+                    }
+                case "octubre":
+                    {
+                        mesant = "septiembre";
+                        break;
+                    }
+                case "noviembre":
+                    {
+                        mesant = "octubre";
+                        break;
+                    }
+                case "diciembre":
+                    {
+                        mesant = "noviembre";
+                        break;
+                    }
+            }
+
+            return mesant;
+        }
+
         private void sumaDiariaSem(string dia, string mesanio, string numsemana) //Para ir sumando reporte por reporte diario
         {
             try
@@ -623,9 +829,9 @@ namespace Control_Remoto
         {
             string folder;
             mes = obtainMonth(mes);
-            year = "20" + year;
+            if(year.Length < 3) { year = "20" + year; }            
             folder = mes + "_" + year;
-            return folder;
+            return @"c:\Reportes\" + folder;
         }
         private string obtainMonth(string mes) //Para obtener nombre largo del mes
         {
@@ -663,6 +869,11 @@ namespace Control_Remoto
                         mes = "junio";
                         break;
                     }
+                case "Jul":
+                    {
+                        mes = "julio";
+                        break;
+                    }
                 case "Aug":
                     {
                         mes = "agosto";
@@ -693,6 +904,77 @@ namespace Control_Remoto
             month = mes;
 
             return month;
+        }
+
+        private int obtainMonthShort(string mes)
+        {
+            int mesnum = 0;
+
+            switch (mes)
+            {
+                case "enero":
+                    {
+                        mesnum = 1;
+                        break;
+                    }
+                case "febrero":
+                    {
+                        mesnum = 2;
+                        break;
+                    }
+                case "marzo":
+                    {
+                        mesnum = 3;
+                        break;
+                    }
+                case "abril":
+                    {
+                        mesnum = 4;
+                        break;
+                    }
+                case "mayo":
+                    {
+                        mesnum = 5;
+                        break;
+                    }
+                case "junio":
+                    {
+                        mesnum = 6;
+                        break;
+                    }
+                case "julio":
+                    {
+                        mesnum = 7;
+                        break;
+                    }
+                case "agosto":
+                    {
+                        mesnum = 8;
+                        break;
+                    }
+                case "septiembre":
+                    {
+                        mesnum = 9;
+                        break;
+                    }
+                case "octubre":
+                    {
+                        mesnum = 10;
+                        break;
+                    }
+                case "noviembre":
+                    {
+                        mesnum = 11;
+                        break;
+                    }
+                case "diciembre":
+                    {
+                        mesnum = 12;
+                        break;
+                    }
+            }
+
+            return mesnum;
         }
 
         #endregion
